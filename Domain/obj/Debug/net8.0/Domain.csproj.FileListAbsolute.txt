@@ -1,0 +1,14 @@
+D:\Dotnet Test\StudentProjectAssignment\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Dotnet Test\StudentProjectAssignment\Domain\bin\Debug\net8.0\Domain.runtimeconfig.json
+D:\Dotnet Test\StudentProjectAssignment\Domain\bin\Debug\net8.0\Domain.dll
+D:\Dotnet Test\StudentProjectAssignment\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\Domain.csproj.AssemblyReference.cache
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\Domain.dll
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\Domain.genruntimeconfig.cache
+D:\Dotnet Test\StudentProjectAssignment\Domain\obj\Debug\net8.0\ref\Domain.dll
